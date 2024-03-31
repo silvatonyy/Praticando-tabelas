@@ -1,0 +1,38 @@
+table, tr, td {
+    border: 3px solid rgb(6, 21, 6);
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.firsttr {
+    background-color: rgb(10, 122, 10);
+    font-size: 25px;
+    color: white;
+}
+
+.secondtr {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+.thirdtr {
+    font-size: 20px;
+}
+
+.fourthtr {
+    font-size: 20px;
+}
+
+.fifthtr {
+    font-size: 20px;
+}
+
+.sixthtr {
+    font-size: 20px;
+}
+
+.seventhtr {
+    font-size: 20px;
+}
+
